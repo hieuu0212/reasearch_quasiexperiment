@@ -1,4 +1,4 @@
-# Scientific Research: The Trade Consequences of Sanctions  
+# Scientific Research: TRADE UNDER PRESSURE: A QUASI-EXPERIMENTAL DESIGN ON SANCTIONS  
 
 This repository contains the code used to replicate the quantitative analysis of an international economics research project on economic sanctions and international trade.
 
@@ -8,7 +8,6 @@ This repository contains the code used to replicate the quantitative analysis of
 
 The project consists of one main empirical section:
 
-### Section 1: TRADE UNDER PRESSURE: A QUASI-EXPERIMENTAL DESIGN ON SANCTIONS
 A quasi-experimental study on the causal effects of sanctions on trade flows, implemented within a staggered Difference-in-Differences framework. The analysis employs:
 - Two-Way Fixed Effects  
 - Extended Two-Way Fixed Effects  
