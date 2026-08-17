@@ -70,12 +70,11 @@ https://drive.google.com/drive/folders/13DpGKoT70Z6LVx6NmO6TrKQrLojECB6O?usp=sha
 
 ## Contributors
 
-- M.A. Trinh Minh Quy  
-- Dang Minh Nhat  
-- Nguyen Trung Hieu  
-- Nguyen Minh Khang  
-- Ho Trong An  
+- Dang Minh Nhat
+- Ho Trong An
+- Nguyen Trung Hieu
 - Hoang Khac Hung  
+- Nguyen Minh Khang  
 - Pham Thieu Ly Na  
 
 ---
@@ -90,5 +89,4 @@ University of Economics and Law, Vietnam National University, Ho Chi Minh City
 
 For questions or replication issues, please contact:  
 - nhatdang0164@gmail.com  
-- minhquy0710@gmail.com  
-- hieunt23408a@st.uel.edu.vn  
+
